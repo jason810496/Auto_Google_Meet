@@ -10,7 +10,7 @@ import pyautogui
 import time
 
 Weekday = datetime.today().weekday() # mon=0 ...sun=6
-Cur_Url =""
+Cur_Url ="" #your mama so fat
 
 # set Webdriver default options
 opts = Options()
